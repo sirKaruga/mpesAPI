@@ -1,2 +1,0 @@
-# mpesAPI
-MPesa API Integration
